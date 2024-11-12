@@ -12,7 +12,7 @@ spec:
   template:
     metadata:
       labels:
-        app: catalog-service
+        app: config-server
     spec:
       containers:
         - name: config-server
